@@ -9,7 +9,7 @@ CREATE TABLE User_Info (
     email VARCHAR(100) NOT NULL,
     gender VARCHAR(10) NOT NULL,
     mobile_number VARCHAR(15) NOT NULL,
-	profile_pic BLOB
+    profile_pic BLOB
 ) AUTO_INCREMENT = 100001;
 
 INSERT INTO User (UserName, Email, Password)
