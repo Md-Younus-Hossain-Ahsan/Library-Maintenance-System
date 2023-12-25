@@ -56,7 +56,7 @@ Follow the steps outlined below:
 - **Configure the recipient email ID, replacing 'mr.someone@example.com,' and save the changes by pressing the 'Save' button.**
 
 ### Addition Information:
-- **In my mysql server, user name: system & password: p@ssword13**
-- **When connecting my project to the database through the IDE, Set the Port: 3306**
+- **In my mysql server, user name: 'system' & password: 'p@ssword13'.**
+- **When connecting my project to the database through the IDE, Set the Port: 3306.**
 
 Now, my project is all set to launch and make waves.
