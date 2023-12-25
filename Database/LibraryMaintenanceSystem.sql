@@ -1,7 +1,6 @@
 create database library_maintenance_system
 
 
-
 CREATE TABLE User_Info (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50) NOT NULL,
@@ -12,6 +11,9 @@ CREATE TABLE User_Info (
     mobile_number VARCHAR(15) NOT NULL,
 	profile_pic BLOB
 ) AUTO_INCREMENT = 100001;
+
+INSERT INTO User (UserName, Email, Password)
+VALUES ('user', 'someone@example.com', '12345');
 
 
 
